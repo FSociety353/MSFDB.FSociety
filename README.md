@@ -15,9 +15,11 @@
 ## then make an ls
 ## ls
 ## call the file
-## cd Fsociety
+##  cd  MSFDB.FSociety 
 ## call them
 ## ls -la
+# call the file of Fsociety
+## cd Fsociety    
 ## call the chmod method with sudo
 ## sudo chmod +x MSFDB.sh
 ## excute it
